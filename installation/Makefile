@@ -17,7 +17,7 @@ readme:
 all:
 	make check-architecture
 	make packages.installed
-	mkdir trtok
+	mkdir -p trtok
 	make trtok/trtok
 	make info
 
@@ -72,9 +72,10 @@ maxent.compiled: maxent boost.compiled
 	cd ..; \
 	touch maxent.compiled;
 
-quex: quex-0.63.1.tar.gz
+quex: quex-0.63.1.tar.gz quex-0.63.1.patch
 	tar xzf $<; \
 	f=$<; mv $${f/.tar.gz/} $@;
+	patch -p 0 < quex-0.63.1.patch
 	touch $@
 	echo 'export QUEX_PATH='${ACT_DIR}'/quex/' >> config.sh; \
 	source config.sh;

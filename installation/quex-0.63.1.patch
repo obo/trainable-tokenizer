@@ -1,0 +1,12 @@
+diff -ru quex-bad/quex/code_base/analyzer/member/constructor.i quex/quex/code_base/analyzer/member/constructor.i
+--- quex-bad/quex/code_base/analyzer/member/constructor.i	2012-03-31 12:47:05.000000000 +0200
++++ quex/quex/code_base/analyzer/member/constructor.i	2019-01-29 14:04:44.000000000 +0100
+@@ -116,7 +116,7 @@
+                              bool                ByteOrderReversionF   /* = false */)
+ {
+     if( p_input_stream == NULL )     QUEX_ERROR_EXIT("Error: received NULL as pointer to input stream.");
+-    if( p_input_stream == std::cin ) QUEX_ERROR_EXIT(__QUEX_MESSAGE_STDIN_IN_CONSTRUCTOR);
++    if( p_input_stream == &std::cin ) QUEX_ERROR_EXIT(__QUEX_MESSAGE_STDIN_IN_CONSTRUCTOR);
+     QUEX_NAME(constructor_core)(me, p_input_stream, 
+                                 CharacterEncodingName, ByteOrderReversionF, 
+                                 0x0,  QUEX_SETTING_BUFFER_SIZE, 0x0);

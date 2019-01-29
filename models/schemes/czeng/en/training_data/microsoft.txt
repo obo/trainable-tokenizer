@@ -1,0 +1,184 @@
+[_DialogFontDefault]&amp; No
+{&amp; MSSansSerif8}The features you selected are currently being uninstalled.
+[_DialogFontDefault]&lt; &amp; Back
+[_DialogFontDefault]This will remove [ProductName] from your machine. Are you sure you want to continue?
+File: [1]
+Folder: [1]
+Shortcut: [1]
+Font: [1]
+{{Disk full: }}
+=== Logging started: [Date] [Time] ===
+=== Logging stopped: [Date] [Time] ===
+Please insert the disk: [2]
+The installer has insufficient privileges to access this directory: [2].
+A network error occurred while attempting to read from the file: [2]
+An error occurred while attempting to create the directory: [2]
+A network error occurred while attempting to create the directory: [2]
+A network error occurred while attempting to open the source file cabinet: [2]
+The Installer has insufficient privileges to modify this file: [2].
+Invalid Drive: [2]
+Could not create key: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+Could not open key: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+[3] KB; available space: [4] KB.
+[5], Window Title: '[6]'}.
+[3] KB; available space: [4] KB.
+Error attempting to read from the source install database: [2].
+Scheduling reboot operation: Deleting file [2].
+Error installing ODBC driver: [4], ODBC error [2]: [3].
+A Microsoft Internet Security and Acceleration (ISA) Server is an extensible firewall and Web proxy server, providing policy-based traffic control between multiple networks.
+A Microsoft Operations Manager (MOM) Workgroup Edition server monitors and manages event and performance data for Windows–based server systems.
+ <Name _locID="Port_Name"
+> Name</Name>
+ <Name _locID="FileSystem_Name"
+> Name</Name>
+ <Name _locID="Registry_Name"
+> Name</Name>
+ <Name _locID="Template_Name"
+> Name</Name>
+The server is a member of a Network Load Balancing (NLB) cluster. NLB clusters allow multiple servers to be addressed by a single IP address for improved availability and scalability.
+Wireless Networking and 802. 1X Authentication
+Hot List: Interesting Web Sites
+Mark this key as exportable. This will allow you to back up or transport your keys at a later time.
+Enable IEEE 802. 1x authentication for this network
+Accept unsigned and unencrypted inbound traffic, but always respond using IPsec. (Not recommended for servers exposed to the Internet.)
+Also include the SCWAudit.inf security template. SCWAudit.inf sets System Access Control Lists (SACLS) in order to audit access of the file system
+To allow user to connect remotely to this computer, you must add them to the Remote Desktop Users Group. For step-by-step instructions, see To add users to the Remote Desktop Users group.
+Action Button: Back or Previous
+Action Button: Forward or Next
+Action Button: Movie
+Time remaining: {[1] minutes }{[2] seconds}
+Time remaining: {[1] min }[2] sec
+Need at least <root> to create a site.
+Please, check if the Microsoft. IIsScriptHelper is registered.
+ERROR: ProcessId specified is NOT an instance of W3WP.exe - EXITING
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+[5], Window Title: '[6]'}.
+Error attempting to read from the source install database: [2].
+Scheduling reboot operation: Deleting file [2].
+Please insert the disk: [2]
+The installer has insufficient privileges to access this directory: [2].
+A network error occurred while attempting to read from the file: [2]
+An error occurred while attempting to create the directory: [2]
+A network error occurred while attempting to create the directory: [2]
+A network error occurred while attempting to open the source file cabinet: [2]
+Could not open key: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+=== Logging started: [Date] [Time] ===
+=== Logging stopped: [Date] [Time] ===
+Time remaining: {[1] minutes }{[2] seconds}
+The Installer has insufficient privileges to modify this file: [2].
+{{System Error: [3].}}
+Contact your technical support group. {{System Error [3].}}
+Could not create key: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{Disk full: }}
+A network error occurred while attempting to read from the file: [2]
+A network error occurred while attempting to create the directory: [2]
+A network error occurred while attempting to open the source file cabinet: [2]
+Could not create key: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+[3] KB; available space: [4] KB.
+The installer has insufficient privileges to access this directory: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+Could not open key: [2].
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [3]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+{{ System error [4]. }} Verify that you have sufficient access to that key, or contact your support personnel.
+[5], Window Title: [6]}.
+{{Package version: [3], OS Protected version:
+[4], SFP Error: [5]}}
+The installer has insufficient privileges to access this directory: [2].
+A network error occurred while attempting to create the directory: [2]
+Could not increase the available registry space. [2] KB of free registry space is required for the installation of this application.
+Could not register font [2]. Verify that you that you have sufficient permissions to install fonts, and that the system supports this font.
+[5], Window Title: '[6]'}.
+The installation has insufficient privileges to access this directory: [2].
+Windows Installer has insufficient privileges to modify this file: [2].
+Scheduling reboot operation: Deleting file [2].
+{{Package version: [3], OS Protected version:
+[4], SFP Error: [5]}}
+System error code: [2]}}
+[3], library: [4] }}
+The Windows Installer service cannot update one or more protected Windows files. {{SFP Error:
+List of protected files: [3]}}
+{{assembly interface: [4], function:
+[5], component: [2]}}
+{{assembly interface: [4], function:
+[5], component: [2]}}
+{{assembly interface: [4], function:
+[5], component: [2]}}
+{{assembly interface: [4], function:
+[5], component: [2]}}
+.: MYPICT~1
+ .:
+ .:
+ .:
+ .
+Microsoft also took the best of Windows 2000 Server technology and made it easier to deploy, manage, and use. In addition, Windows Server 2003 enables organizations to experience the benefits of Microsoft .NET-a set of software for connecting information, people, systems, and devices.
+You can print all documents that are linked to a specific Web page. In the Print dialog box, click Print all linked documents.
+You can set a different level of security for each Web site. On the Tools menu, click Internet Options, and then click the Security tab.
+Look under Tools|Options |Security to set security settings for a particular Zone.
+File: <loading...
+Tip: Make sure that messages are available offline by synchronizing folders and newsgroups.
+This page is no longer available. As a security precaution, Internet Explorer does not automatically resubmit your information for you.
+Choose( index, expression1, expression2, ... )
+Empty 'Deleted Items' Folder
+Open.. .
+{This type of test does not apply to the field you selected. }Click a different test or a different field in the Field Name column.
+{There is a problem with the entry. }The accrual choice is not valid.
+{This is not a valid Units value. }For Work type resources (such as people or machinery), type a positive number between 0 and 60,000,000 (or 6,000,000,000 percent) with up to two decimal places.
+{The workgroup choice is not valid. }Click Default, None, Email, or Web, and then press ENTER.
+{The occurrences of the calendar, \"^1\", will be replaced by the Standard calendar. }Because the calendar you deleted was in use by Microsoft Project, the occurrences of it have been replaced by the Standard calendar.
+{If you cut the selected resources, their task assignments, if any, will be lost.}\225 To continue cutting the selected resources, click OK. \225 To stop this action, click Cancel.
+{This field contains data that is dynamically linked to another field or program. }If you clear or change the information in this field, all links included in this link will be removed.
+If you want to change the currency symbol, click Options on the Tools menu. On the View tab, change the currency symbol in the Symbol box.
+{Invalid lag time. }The lag time you typed is not valid.
+Try one of the following: \225 For a fixed lag time, type a number and a duration abbreviation in the Lag field, for example, 5d or 5ed for elapsed time.
+{Invalid number. }The number you entered is invalid or it is outside the range for a Number field.
+{Invalid percent complete value. }A task cannot be less than 0 percent complete or greater than 100 percent complete.
+{Invalid predecessor.}Try one of the following: \225 Type only positive, whole numbers.
+{Invalid name for a resource. }Resource names cannot contain brackets ( [ ] ) or the list separator character.
+{The resource you typed, \"^1\", is not in the resource pool. }To add the resource to the resource pool, click Yes.
+Try one of the following: \225 Type only positive, whole numbers.
+{Invalid task ID. }This task ID number does not exist.
+{This action will cause a scheduling conflict for summary task ^1 of \"^2\".}\225 To remove the constraint on the summary task, click OK. \225 To undo the action that caused the conflict, click Cancel.
+{Closing \"^1\" without first saving its resource pool file \"^2\" might result in lost information about the existing link. }To keep accurate link information, save the resource pool file before closing this file.
+{The project that is currently open is an embedded project. }Embedded projects cannot be a resource pool file or sharing file.
+{You cannot make a task a predecessor of itself. }If this task is dependent on another task, enter the ID number of the task it depends on and any pertinent task relationship information.
+{You cannot edit the finish date on a summary task. }Because summary tasks summarize information about the tasks subordinate to them, you cannot edit their finish dates.
+{You cannot edit the start date on inserted projects or summary tasks. }Because summary tasks and inserted projects summarize information about tasks that are subordinate to them, you cannot edit their start dates.
+{You cannot edit Resume No Earlier Than constraints on inserted projects or summary tasks. }Because summary and inserted project tasks summarize information about tasks that are subordinate to them, you cannot edit their stop and resume dates.
+{You cannot edit the duration of a summary task or inserted project task because it is calculated by Microsoft Project. }To change the duration of a summary task or inserted project task, change the durations of the summary task's subtasks or the tasks in the inserted project.
+{You cannot edit the actual or remaining work of an inserted project task. }Edit the actual or remaining work for the tasks in the inserted project instead.
+{You cannot enter units in the Initials field. }Enter units by clicking either the Task Information or Assign Resources button on the Standard toolbar.
+{You cannot link a summary task to one of its subtasks. }If you want to link the two tasks, outdent the subtask to a summary task, and then link them.
+{The operation cannot be completed because the total number of rows would exceed the limit of ^1 rows in a project. }Insert fewer rows, delete some rows, or consider dividing your project into subprojects to provide more space for tasks and resources.
+{Connecting \"^1\" to resource pool \"^2\" will remove all links to resources in \"^3\".}Do you want to continue? To continue and lose all resource OLE or DDE links, click Yes.
+{There was a problem linking these tasks. }You cannot link a predecessor task twice to the same successor task.
+{There is a problem with this assignment. }You cannot have the same resource assigned twice to the same task.
+{There was a problem linking these tasks. }You cannot have the same task as predecessor and successor.
+{There is a problem with the field. }The field on line # ^1 exceeds the 255-character limit and will be shortened to fit.
+{The finish of task ^1 of \"^2\" is after the project finishes.}Try one of the following: \225 If you typed a task finish date that is later than the project finish date, and you want the project to end on the task finish date, change the project finish date, and then change the task finish date.
+{An import error occurred. }Check row ^2 column ^3.
+{This is an invalid value. }You can enter only a number in the Maximum Units field.
+{There is a problem importing. }Importing will stop because information in an imported field exceeds the number of characters that can fit into the corresponding Microsoft Project field.
+{An import error occurred. }An invalid .MPX record was encountered on line # ^1.
+{An import error occurred. }An error occurred during import on line # ^1.
+{The predecessors of a summary task or predecessors of an inserted project summary task must have a finish-to-start or start-to-start dependency. }Select the tasks you want to link in a finish-to-start or start-to-start dependency, and then click the Link Tasks button on the Standard toolbar.
+{There is not enough memory to complete the operation. }Close programs, projects, or windows you aren't using, and then try again.

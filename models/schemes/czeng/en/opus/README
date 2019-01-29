@@ -1,0 +1,35 @@
+The sources from the OPUS project are quite badly tokenized. This bad
+tokenization mostly "overtokenizes" its input. If we wanted to train a model
+which would be adept at going from this wrong tokenization to the desired
+tokenization, we would have to train from training data which is similarly
+mistokenized as the source data from which the tokenizer would have to 
+learn how to join the original tokens. This would also necessitate describing
+all the desired possible joins present in the OPUS data.
+
+What I did in the meantime was to "collapse" the original tokenization by
+joining consecutive tokens unless the newly joined characters were alphanumeric.
+This transformation is easy and we can use it to modify the raw half of the
+training data too. Our standard configuration ensures that there will be a
+possible split at every of the former token boundaries, so they will form
+separate rough tokens. By applying this collapsing transformation to both the
+training data and the cleaned OPUS data itself, we have ensured that the
+tokenizer will be trained on data "tokenized" in the same way as the real input
+and that it decomposes the text into the same rough tokens.
+
+As the examples of bad tokenization in the EMEA corpus are very specific case of
+phone numbers, e-mail and URLs, it would be nice to also have the training data
+which teaches the tokenizer to actually tokenize these elements correctly, along
+with some specialized features to help it learn it.
+
+Note: After realizing that we actually throw away the tokenization performed by
+trtok, I stopped using this tokenization scheme and changed the cleaning script
+for EMEA and EUconst to no longer collapse the tokenization and just keep it
+like it is. If we were to try to fix the tokenization some day later, we might
+want to:
+ 1) change the mining/Makefile so that it enables us to run trtok on different
+    sources using different options (so there would be no --detokenize for OPUS)
+ 2) prepare training data which would actually teach trtok to handle the
+    problematic cases correctly and perhaps write some features to aid him
+ 3) decide whether we want tokenized data in mining/segmented or not. If not, we
+    would then need the annotated part of the training data to be untokenized
+    and the raw part to be either OPUS-like tokenized or collapsed.

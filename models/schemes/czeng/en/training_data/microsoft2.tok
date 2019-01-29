@@ -1,0 +1,185 @@
+Important : Before closing this page , ensure that you have downloaded and installed all of the latest critical updates from Windows Update .
+Action Button : Beginning
+ERROR : ProcessId specified is NOT an instance of W3WP.exe - EXITING
+[3] , OS Protected version : [4] , SFP Error : [5] }}
+[3] , OS Protected version : [4] , SFP Error : [5] }}
+Contact your support personnel or package vendor .
+{{Custom action [2] script error [3] , [4] : [5] Line [6] , Column [7] , [8] }}
+. : Favorite | Favorites
+. : PROGRA~2 | Program Files (x86)
+Tip : Make sure that messages are available offline by synchronizing folders and newsgroups .
+{ This is not a valid label for a material resource .}Material labels cannot contain the following : \225 Brackets ( [ ] ) or the list separator character .
+\225 Duration , work , or time units like m , hr , dy , w , mon or y ( instead , add a period; for example , \ " m .\ " or \ " y .\ " ) .
+\225 More than 32 characters .
+It is strongly suggested that you give unique names to all instances of the resources with the following names : ^1 .
+{ The following tables , views , or queries in the database are about to be overwritten : \ " ^1\ " }
+\225 To replace the existing tables or views in the database with the data you are exporting , click OK .
+\225 To terminate the export process without saving any data , click Cancel .
+Install Files : Verifying catalogs/INFs .
+Install Device : Calling 'RUNONCE'/'GRPCONV' items .
+DICS_ENABLE DICS_FLAG_GLOBAL : Enabling device globally failed .
+DICS_DISABLE DICS_FLAG_GLOBAL : Disabling device globally failed .
+More : ENTER = Scroll ( Line ) SPACE = Scroll ( Page ) ESC = Stop
+ENABLE servicename [start_type] servicename The name of the service or driver to be enabled . 
+start_type Valid start_type values are : SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START ENABLE prints the old start_type of the service before resetting it to the new value .
+The start_type values that the DISABLE command displays are : SERVICE_DISABLED SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
+Valid start types are : SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
+CHDIR [path] CHDIR [..] CHDIR [drive : ] CD [path] CD [ . .] CD [drive : ] CD . . Specifies that you want to change to the parent directory .
+Valid start types are : SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
+Files may have the following attributes : D Directory R Read-only H Hidden file A Files ready for archiving S System file C Compressed E Encrypted P Reparse Point DIR only operates within the system directories of the current Windows installation , removable media , the root directory of any hard disk partition , or the local installation sources .
+PathtoNTSourceFiles : Path to the Windows Installation CD files .
+An example of a good drive name is D : . partition-name This is a partition-based name for deleting an exisiting partition and can be used in place of the drive-name argument .
+Error : Failed to set default boot entry .
+Phone Book Service : : A new phone book was detected .
+usage : ipv6 gpu [parameter value] . . . ipv6 gpu DefaultCurHopLimit hops ipv6 gpu UseTemporaryAddresses [yes|no|always|counter] ipv6 gpu MaxTempDADAttempts number ipv6 gpu MaxTempLifetime valid[/preferred] ipv6 gpu TempRegenerateTime time ipv6 gpu MaxTempRandomTime time ipv6 gpu TempRandomTime time ipv6 gpu NeighborCacheLimit number ipv6 gpu RouteCacheLimit number ipv6 gpu BindingCacheLimit number ipv6 gpu ReassemblyLimit number ipv6 gpu MobilitySecurity [on|off] ipv6 gpu MobileIPv6Mode [CN|MN|HA]* Use ipv6 -p gpu . . . to make a persistent change in the registry .
+Internal event : Not all the parameters necessary to start the DSP layer are present in the Windows registry .
+An example of a valid string is : CommonName OrganizationalUnit Organization Locality State Country
+Certificate Services did not start : Not enough memory or other system resources .
+Important : Store this information in a safe place .
+Important : Because you cannot change the user isolation option after creating this FTP site , you should read about FTP user isolation in the IIS product documentation before choosing an isolation option .
+Change Shape to Flowchart : Off-page Connector
+Change Shape to Flowchart : Sequential Access Storage
+Change Shape to Flowchart : Magnetic Disk
+Change Shape to Flowchart : Direct Access Storage
+{ No assignments could be created from the imported data . }
+To selectively import assignment data , you must include at least one of the following fields : Task Name , Resource Name , Task ID , or Resource ID .
+Project Center Views : Select views for displaying a portfolio of projects
+Users and groups : Select the users and groups that belong in this category
+Note : The off-document reference cannot synchronize text across documents .
+Devices : Prevent users from installing printer drivers
+Network access : Remotely accessible registry paths
+Network access : Remotely accessible registry paths and sub-paths
+Microsoft network server : Amount of idle time required before suspending session
+Shutdown : Clear virtual memory pagefile
+DCOM : Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax
+Network security : Minimum session security for NTLM SSP based (including secure RPC) servers
+Network access : Named Pipes that can be accessed anonymously
+Recovery console : Allow floppy copy and access to all drives and all folders
+Microsoft network client : Digitally sign communications ( always )
+Microsoft network server : Digitally sign communications ( always )
+Network access : Do not allow anonymous enumeration of SAM accounts and shares
+Network access : Do not allow anonymous enumeration of SAM accounts
+Devices : Allow undock without having to log on
+The e-mail server must be configured properly before you can use the Request Access feature .
+Contact your server administrator to configure the e-mail server .
+Note : Your FrontPage Web must be published to a server for the FrontPage Search Component to work correctly .
+Windows SharePoint Services Error .
+User : please report details to this Web site's Webmaster .
+Can be any of the following : Certificate Common Name Certificate Serial Number Certificate SHA-1 hash Requester Name ( domain\user ) UPN ( user domain )
+Error : No location to store temporary files .
+Warning : You are about to completely remove Message Queuing .
+Example : A print document created by an Office 97 application
+Example : A4 or Letter
+Example : Accessories\\System Tools .
+Example : All Users : Accessories\\System Tools .
+Example : X4 .
+Example : M1 .
+Example : M0 .
+Example : M2 .
+Example : M3 .
+Example : L3 .
+Example : L1 .
+Example : L2 .
+Example : Fast EtherLink XL
+Example : Permanent .
+Example : A computer running Windows 2000 workstation or Windows 98 that is part of a Windows 2000 domain .
+Values : TRUE or FALSE .
+Values : TRUE or FALSE .
+Example : TCP/IP
+There are two special values defined for this property : 0 - The protocol is stream-oriented; the concept of message size is not relevant .
+1 - The maximum outbound (send) message size is dependent on the underlying network MTU (maximum sized transmission unit) and hence cannot be known until after a socket is bound .
+Example : 00 : 80 : C7 : 8F : 6C : 96
+Default : 1000 , Valid Range : 1 - 0xFFFFFFFF .
+Default : 50 , Valid Range : 1 - 0xFFFFFFFE .
+WARNING : If DHCP is enabled on this local computer system , the option disables TCP/IP on this specific network adapter .
+For example , the list of arguments One , Two , and Three are listed as : One[~]Two[~]Three .
+For example , if MyKey and MySubKey do not exist in the following path , CreateKey creates both keys : HKEY_LOCAL_MACHINE\\SOFTWARE\\MyKey\\MySubKey
+Note : This property has been Deprecated in Windows XP and is no longer used .
+Example : SE_SHUTDOWN_NAME
+Registration denied : Usage limits exceeded
+Registration failure : No response from network
+Scan : New cell configuration received
+Error : New Epoch
+Error : Old Epoch
+Error : Duplicate value is mandatory
+NDS : Mandatory Property is missing
+NDS : This is not an effective class
+Remarks : Displays all binding cache entries .
+Remarks : Shows global configuration parameters .
+Remarks : Modifies parameters related to anonymous address generation .
+Remarks : Shows privacy configuration parameters .
+Remarks : Shows prefix policy entries used in source and destination address selection .
+Tag Value interface - Interface name or index .
+address - Address of neighbor .
+Remarks : Flushes the neighbor cache .
+Tag Value interface - Interface name or index .
+address - Address of neighbor .
+Remarks : Shows neighbor cache entries .
+Remarks : Adds a route for a given prefix .
+Remarks : Deletes an IPv6 route .
+Remarks : Shows route table entries .
+verbose : Display extra information on each interface .
+Remarks : Displays the site prefix table .
+Tag Value interface - Interface name or index .
+address - Address of destination .
+level - One of the following values : normal : Display one line per entry .
+Remarks : Flushes the destination cache .
+Tag Value interface - Interface name or index .
+address - Address of destination .
+Remarks : Shows destination cache entries .
+Remarks : Deletes a given interface from the IPv6 stack .
+verbose : Display extra information on each interface .
+Remarks : Shows mobility configuration parameters .
+verbose : Display extra information on each interface .
+Constraint : Zone-specific
+rip1 : Announce RIP version 1 routes only . rip1compat : Announce using RIP version-compatible mode .
+rip1 : Accept RIP version 1 routes only . rip1compat : Accept using RIP version-compatible mode .
+Password authorization required . tag - The route tag . unicast - One of the following values : also : Use also unicast .
+disable : Disable announcement filters . password - A clear-text password (16 characters maximum length) .
+Remarks : Modifies RIP configuration on a specified interface .
+Remarks : Set RIP-related flags for a specified interface .
+Remarks : Set global RIP parameters .
+[mask=]<IP address>] Parameters : Tag Value name - Name of the interface to add . areaid - IP address of area that the interface belongs to . addr - IP address of the interface to add . mask - IP address mask of the interface to add .
+Remarks : Enables OSPF on the specified interface .
+Modes : Profile Install -- cmstp .exe [/ni /ns /nf /s /su /sd] <Full Path to Profile Inf>
+Remarks : Shows information about adapters pertaining to the bridge .
+Remarks : Shows global port settings .
+| ALL } [ EXPIRED ] Remarks : Shows identity and related group information .
+Remarks : Shows count of identities and associated groups .
+Use :  " POWERCFG /HIBERNATE on "
+Note : You'll need to make sure that you have a current subscription with your antivirus provider to do this .
+Note : You'll need to make sure that you have a current subscription with your antivirus provider to do this .
+Note : You'll need to make sure that you have a current subscription with your antivirus provider to do this .
+Example : Cannot find JohnDough .
+2 . Use RSoP to identify the specific User Rights , Restricted Groups , and Source GPOs that contain the problem accounts : a . Start->
+-ER : <ResourceName> extracts binary mof from named resource
+-L : <ResourceLocale> optional specific locale number when using -ER switch
+" File menu : Disable closing the browser and Explorer windows "
+" Help menu : Remove 'Send Feedback' menu option "
+Caution : This policy does not prevent users from opening a new browser window by right-clicking , and then clicking the Open in New Window command .
+Note : Most channel providers use the words Add Active Channel for this option; however , a few use different words , such as Subscribe . "
+Note : If you enable this policy , users also cannot click Synchronize on the Tools menu to manage their favorite links that are set up for offline viewing . "
+Note : When users click the Open in New Window command , the link will not open in a new window and they will be informed that the command is not available . "
+The " Disable the Connections page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Connections tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+This " Disable the Programs Page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) takes precedence over this policy . If it is enabled , this policy is ignored . "
+The " Disable the Content page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Content tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored .
+Caution : If you enable this policy , users can still run the Certificate Manager Import Wizard by double-clicking a software publishing certificate ( .spc) file .
+Note : The default font settings colors are ignored in cases in which the Web page author has specified the font attributes . "
+Caution : If you enable this policy after users have used their browser with form automatic completion enabled , it will not clear the automatic completion history for forms that users have already filled out . "
+The " Disable the Content page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Content tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+Note : The default link colors are ignored on Web pages on which the author has specified link colors . "
+The " Disable the Programs page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Programs tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+The " Disable the Connections page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Connections tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+The " Disable the Ratings page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Ratings tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+The " Disable the Programs page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Programs tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+Also , see the " Security zones : Use only machine settings " policy . "
+Also , see the " Security zones : Use only machine settings " policy . "
+Caution : This policy does not prevent users from viewing and changing Internet settings by clicking the Internet Options icon in Windows Control Panel .
+Also , see the " Security zones : Use only machine settings " policy . "
+Note . If policy for a zone is set in both Computer Configuration and User Configuration , both lists of protocols will be restricted for that zone . "
+Note . It is recommended to configure template policy settings in one Group Policy object (GPO) and configure any related individual policy settings in a separate GPO .
+Role : The associated managed system element provides the element that implements the element setting .
+Role : The associated setting provides the setting that implements the element setting .
+Heuristic : If the implementation of the service access point is modeled , it must be implemented by a device or software feature that is part of the system hosting the service access point .
+Heuristic : A job destination is hosted on the system where the logical devices , software features or services that implement/provide the job destination are located .
+For example : The string abcdefghijklmnopqrstuvwxyz generates the string c3fcd3d76192e4007dfb496cca67e13b .

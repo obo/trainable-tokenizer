@@ -19,11 +19,15 @@ all:
 	make packages.installed
 	mkdir -p trtok
 	make trtok/trtok
+	make trtok/schemes
 	make info
 
 trtok/trtok: trtok.compiled
-	touch trtok/trtok; \
-	echo 'export TRTOK_PATH='${ACT_DIR}'/trtok/' >> config.sh;
+	touch trtok/trtok
+	echo 'export TRTOK_PATH='${ACT_DIR}'/trtok/' >> config.sh
+
+trtok/schemes: trtok-src
+	cp -r trtok-src/models/schemes trtok/schemes
 
 trtok.compiled: quex boost.compiled maxent.compiled trtok-src packages.installed
 	source config.sh; \
@@ -164,6 +168,7 @@ info:
 	# =========================
 	# == Add to your bashrc:
 	@echo "     source $$(pwd)/config.sh"
+	@echo "     export PATH=\$$PATH:$$(pwd)/trtok/"
 
 check:
 	if [ ! -f trtok/trtok ]; then \

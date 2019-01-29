@@ -345,7 +345,7 @@ int main(int argc, char const **argv) {
     }
 
     // All files generated for this scheme will be stored in the build
-    // directory under the same relatve path as the scheme definition.
+    // directory under the same relative path as the scheme definition.
     fs::path build_path =
         fs::path(e_trtok_path) / fs::path("build") / scheme_rel_path;
     fs::create_directories(build_path);
@@ -995,6 +995,7 @@ int main(int argc, char const **argv) {
     // has accumulated all the required questions and answers, so we can hand
     // it over to the Maxent toolkit to do the rest.
     if (mode == TRAIN_MODE) {
+      cerr << "Training maxent model" << endl;
       classifier_p->train_model(training_parameters, model_path.native(),
                                 save_model_as_binary);
     }

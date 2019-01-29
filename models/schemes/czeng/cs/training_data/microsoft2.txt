@@ -1,0 +1,186 @@
+Důležité: Před zavřením tohoto dialogového okna zkontrolujte, zda byly staženy a nainstalovány všechny kritické aktualizace ze serveru Windows Update.
+Tlačítko akce: Začátek
+CHYBA: Zadané ID procesu NENÍ instancí souboru W3WP.exe - PROBÍHÁ UKONČENÍ
+{{Verze balíčku: [3], Verze chráněná operačním systémem: [4], Chyba SFP: [5]}}
+{{Verze balíčku: [3], verze chráněná operačním systémem: [4], chyba SFP: [5]}}
+Obraťte se na odbornou pomoc nebo dodavatele balíčku. {{Chyba vlastní akce [2] ve skriptu [3], [4]: [5] na řádku [6], ve sloupci [7], [8] }}
+.:OblibPol|Oblíbené položky
+.:PROGRA~2|Program Files (x86)
+Tip: Synchronizací složek a diskusních skupin zajistěte, aby byly zprávy k dispozici v režimu offilne.
+{Popisek materiálu není platný.}Popisky materiálu nesmějí obsahovat: \225 Závorky ( [ ] ) nebo oddělovač seznamů. \225 Jednotky doby trvání, práce, nebo časové jednotky, například m, h, d, t, měs, r (Pro rozlišení přidejte tečku, například m. nebo r. \225 Více než 32 znaků.
+Důrazně doporučujeme jednoznačně pojmenovat všechny výskyty zdrojů s těmito názvy: ^1.
+{Následující tabulky, zobrazení nebo databázové dotazy budou přepsány: \"^1\"}\225 Chcete-li nahradit stávající tabulky nebo zobrazení v databázi exportovanými daty, klepněte na tlačítko OK. \225 Chcete-li export ukončit bez uložení dat, klepněte na tlačítko Storno.
+Instalace souborů: Ověřování katalogů a souborů INF.
+Instalace zařízení: Spuštění příkazů RunOnce a GrpConv.
+DICS_ENABLE DICS_FLAG_GLOBAL: Globální povolování zařízení se nezdařilo.
+DICS_ENABLE DICS_FLAG_GLOBAL: Globální zakazování zařízení se nezdařilo.
+Další: Enter=posunout o řádek Mezerník=posunout o stránku Esc=konec
+ENABLE název služby [typ_spuštění] název služby Název zapínané služby nebo ovladače. typ_spuštění Platné hodnoty typu_spuštění jsou: SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START Příkaz ENABLE vypíše původní typ_spuštění služby a pak jej nastaví na novou hodnotu.
+Hodnoty typ_spuštění, které se zobrazí příkazem DISABLE, jsou: SERVICE_DISABLED SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
+Platné typy spuštění jsou: SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
+CHDIR [cesta] CHDIR [..] CHDIR [jednotka:] CD [cesta] CD [..] CD [jednotka:] CD .. přepne do nadřazeného adresáře.
+Platné typy spuštění jsou: SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
+Soubory mohou mít tyto atributy: D adresář R pouze pro čtení H skrytý soubor A soubory připravené k archivaci S systémový soubor C komprimovaný E šifrovaný P bod rozboru Příkaz DIR pracuje pouze v rámci systémových adresářů aktuální instalace systému Windows, výměnných médií, kořenového adresáře libovolného oddílu pevného disku nebo zdrojů místní instalace.
+CestakSouboruNT: Cesta k instalačním souborům systému Windows na CD-ROM.
+Příklad správného názvu jednotky je D:. název-oddílu To je název (vytvořený na základě oddílu) pro odstranění aktuálního oddílu a může být použit místo argumentu názvu jednotky.
+Chyba: Nastavení výchozí spouštěcí položky se nezdařilo.
+Služba Phone Book Service:: Byl zjištěn nový telefonní seznam.
+Použití: ipv6 gpu [parametr hodnota] ... ipv6 gpu DefaultCurHopLimit počet_směrování ipv6 gpu UseTemporaryAddresses [yes|no|always|counter] ipv6 gpu MaxTempDADAttempts číslo ipv6 gpu MaxTempLifetime valid[/preferred] ipv6 gpu TempRegenerateTime doba ipv6 gpu MaxTempRandomTime doba ipv6 gpu TempRandomTime doba ipv6 gpu NeighborCacheLimit číslo ipv6 gpu RouteCacheLimit číslo ipv6 gpu BindingCacheLimit číslo ipv6 gpu ReassemblyLimit číslo ipv6 gpu MobilitySecurity [on|off] ipv6 gpu MobileIPv6Mode [CN|MN|HA]* Pomocí příkazu ipv6 -p gpu ... provedete trvalé změny v registru.
+
+Vnitřní událost: V registru systému Windows nejsou přítomny všechny parametry nezbytné pro spuštění vrstvy DSP.
+
+
+Příklad platného řetězce je: Běžný_název Organizační_jednotka Organizace Místo Kraj Země
+Certifikační služba nebyla spuštěna z důvodu nedostatku paměti nebo jiných systémových prostředků.
+
+
+Důležité: Uložte tyto informace na bezpečné místo.
+Popisek tlačítka Vyhledat:
+Upozornění: Protože po vytvoření tohoto serveru FTP nelze změnit možnost izolace uživatelů, je vhodné před volbou možnosti prostudovat informace o izolaci uživatelů serveru FTP v dokumentaci produktu Internetová informační služba.
+Změnit tvar na Vývojový diagram: spojka mezi stránkami
+Změnit tvar na Vývojový diagram: paměť se sekvenčním přístupem
+Změnit tvar na Vývojový diagram: magnetický disk
+Změnit tvar na Vývojový diagram: paměť s přímým přístupem
+{Z importovaných dat nelze vytvořit žádné přiřazení.}Do selektivního importu dat přiřazení musíte zařadit alespoň jednu z následujících položek: Název úkolu, Název zdroje, Číslo ID úkolu, Číslo ID zdroje.
+Zobrazení Centra projektů: Vyberte zobrazení pro portfolio projektů
+Uživatelé a skupiny: Vyberte uživatele a skupiny patřící do této kategorie.
+Poznámka: Odkaz na jiný dokument nemůže synchronizovat text mezi dokumenty.
+Zařízení: Zabránit uživatelům instalovat ovladače tiskáren
+Přístup k síti: Vzdáleně přístupné cesty registru
+Přístup k síti: Vzdáleně přístupné cesty registru a jejich podřízené větve.
+
+Server sítě Microsoft: Požadovaná délka nečinnosti před odpojením relace
+Vypnutí: Vyčistit stránkovací soubor virtuální paměti
+DCOM: Omezení přístupu pro počítač v syntaxi jazyka SDDL (Security Descriptor Definition Language)
+Zabezpečení sítě: Minimální zabezpečení relací serverů na základě NTLM SSP včetně zabezpečeného volání RPC
+Přístup k síti: Povolit anonymní přístup k pojmenovaným kanálům
+Konzola pro zotavení: Umožnit kopírování disket a přístup ke všem jednotkám a složkám
+Klient sítě Microsoft: Vždy digitálně podepsat komunikaci
+Server sítě Microsoft: Vždy digitálně podepsat komunikaci
+Přístup k síti: Nepovolit anonymní tvorbu výčtu účtů SAM a sdílených položek
+Přístup k síti: Nepovolit anonymní tvorbu výčtu účtů SAM
+Zařízení: Povolit vyjmutí z dokovací stanice bez nutnosti přihlásit se
+Před použitím funkce Vyžádat přístup je nutné nejprve správně nakonfigurovat e-mailový server: Obraťte se na správce serveru.
+Poznámka: Web aplikace FrontPage je nutné publikovat na serveru, jinak nebude komponenta aplikace FrontPage pro vyhledávání fungovat správně.
+Chyba služby Windows SharePoint Services Pro uživatele: Odešlete podrobnosti správci tohoto webu.
+Může nabývat následujících hodnot: běžný název certifikátu, sériové číslo certifikátu, algoritmus hash SHA-1 certifikátu, jméno odesílatele (doména\uživatel), hlavní název uživatele (uzivatel domena).
+Chyba: Nebylo zadáno umístění pro ukládání dočasných souborů.
+Upozornění: Chystáte se úplně odebrat službu Řízení front zpráv.
+Příklad: Tiskový dokument vytvořený v některé z aplikací sady Office 97.
+Příklady: A4 nebo Letter
+Příklad: Příslušenství\\Systémové nástroje.
+Příklad: All Users:Příslušenství\\Systémové nástroje.
+Příklad: X4.
+Příklad: M1.
+Příklad: M0.
+Příklad: M2.
+Příklad: M3.
+Příklad: L3.
+Příklad: L1.
+Příklad: L2.
+Příklad: Fast EtherLink XL
+Příklad: Trvalé.
+Příklad: Počítač se systémem Windows 2000 Workstation nebo Windows 98, který je součástí domény Windows 2000.
+Hodnoty: TRUE nebo FALSE.
+Hodnoty: TRUE nebo FALSE.
+Příklad: TCP/IP
+U této vlastnosti jsou definovány dvě zvláštní hodnoty: 0 - Protokol je orientovaný na proudící data, koncept velikosti zprávy není relevantní. 1 - Maximální velikost odchozí (odeslané) zprávy je závislá na největší přenosové jednotce (MTU) základní sítě, a proto může být známa až po svázání soketu.
+Příklad: 00:80:C7:8F:6C:96
+Výchozí hodnota: 1000, Platný rozsah: 1 - 0xFFFFFFFF.
+Výchozí hodnota: 50, Platný rozsah: 1 - 0xFFFFFFFE.
+VAROVÁNÍ: Pokud je protokol DHCP v tomto místním počítači povolen, tato možnost zakáže protokol TCP/IP na tomto konkrétním síťovém adaptéru.
+Například seznam argumentů Jedna, Dvě, Tři bude vypadat takto: Jedna[~]Dvě[~]Tři.
+Pokud například následující cesta neobsahuje klíče MyKey a MySubKey, metoda CreateKey oba klíče vytvoří: HKEY_LOCAL_MACHINE\\SOFTWARE\\MyKey\\MySubKey
+Poznámka: Tato vlastnost se již v systému Windows XP nepoužívá.
+Buď pouze název plochy nebo název plochy i objektu Window station pro tento proces.
+Příklad: SE_SHUTDOWN_NAME
+Registrace byla odepřena: Bylo překročeno omezení použití.
+Registrace se nezdařila: Síť neodpovídá.
+Hledání: Přijata nová konfigurace buňky.
+
+Chyba: Nová epocha
+Chyba: Stará epocha
+Chyba: Duplicitní hodnota je povinná.
+NDS: Povinná vlastnost nebyla nalezena.
+NDS: Třída je neplatná.
+V případě, že odpovídající sada není nainstalována, použije prohlížeč výchozí jazyk.
+Poznámky: Zobrazí všechny položky mezipaměti vazeb.
+Poznámky: Zobrazí globální parametry konfigurace.
+Poznámky: Změní parametry související s generováním anonymní adresy.
+Poznámky: Zobrazí parametry konfigurace utajení.
+Poznámky: Zobrazí položky zásad předpon použité ve vybraných zdrojových a cílových adresách.
+Parametr Hodnota rozhraní - Název nebo index rozhraní. address - Adresa souseda Poznámky: Vymaže mezipaměť protokolu Neighbor Discovery.
+Parametr Hodnota rozhraní - Název nebo index rozhraní. address - Adresa souseda Poznámky: Zobrazí položky mezipaměti protokolu ND.
+Je zahrnuto do inzerování tras s nekonečnou dobou života.
+Poznámky: Odstraní směrování IPv6.
+Poznámky: Zobrazí položky tabulky směrování.
+Toto je výchozí možnost, není-li určeno žádné rozhraní. verbose: Pro každé rozhraní zobrazí další informace.
+Poznámky: Zobrazí tabulku předpon serveru.
+Parametr Hodnota rozhraní - Název nebo index rozhraní. address - Adresa cílového umístění level - Jedna z následujících hodnot: normal:
+Poznámky: Vyprázdní mezipaměť cílových umístění.
+Parametr Hodnota rozhraní - Název nebo index rozhraní. address - Adresa cílového umístění Poznámky: Zobrazí položky mezipaměti cílových umístění.
+Výchozí možností je přirozený parametr MTU daného připojení. siteid - Identifikátor zóny oboru serveru metric - Metrika rozhraní přidaná k metrice směrování pro všechna směrování vedoucí přes dané rozhraní Poznámky:
+Poznámky: Odstraní dané rozhraní ze zásobníku protokolů IPv6.
+Toto je výchozí možnost, není-li určeno žádné rozhraní. verbose: Pro každé rozhraní zobrazí další informace.
+Toto je výchozí možnost, je-li určeno rozhraní.
+Poznámky: Zobrazí parametry mobilní konfigurace.
+Toto je výchozí možnost, není-li určeno žádné rozhraní. verbose: Pro každé rozhraní zobrazí další informace.
+Omezení : Dle zóny
+Zahrnout filtry oznámení. exclude: Vyloučit filtry oznámení. disable: Zakázat filtry oznámení. password - Heslo v textovém formátu (maximální délka 16 znaků).
+Poznámky: Upraví konfiguraci protokolu RIP na určeném rozhraní.
+Poznámky: Pro zadané rozhraní nastavte příznaky související s protokolem RIP.
+Poznámky: Nastavte globální parametry protokolu RIP.
+Soused se může stát vyhrazeným směrovačem, pokud priorita jeho směrovače má hodnotu 1 nebo vyšší.
+Příznak Hodnota name - Název rozhraní, které chcete přidat. areaid - Adresa IP oblasti, do které patří rozhraní. addr - adresa IP rozhraní, které chcete přidat. mask - maska adresy IP rozhraní, které chcete přidat.
+Poznámky: Na zadaném rozhraní povolí protokol OSPF.
+Režimy: Instalace profilu - cmstp.exe [/ni /ns /nf /s /su /sd] <úplná cesta k souboru INF profilu>
+Poznámky: Zobrazí informace o adaptérech týkajících se vlastního mostu.
+Poznámky: Zobrazí globální nastavení portu.
+| ALL } [ EXPIRED ] Poznámky: Zobrazí identitu a informace o související skupině.
+Poznámky: Zobrazí počet identit a přidružených skupin.
+Zadejte příkaz POWERCFG /HIBERNATE on.
+Poznámka: Nejprve se přesvědčte, zda jste aktuálně zaregistrováni u poskytovatele antivirového softwaru, aby bylo možno aktualizaci provést.
+Poznámka: Nejprve se přesvědčte, zda jste aktuálně zaregistrováni u poskytovatele antivirového softwaru, aby bylo možno antivirový program aktualizovat.
+Poznámka: Nejprve se přesvědčte, zda jste aktuálně zaregistrováni u poskytovatele antivirového softwaru, aby bylo možné antivirový program aktualizovat.
+Příklad: Cannot find JanNovak.
+2. Pomocí modulu Výsledná sada zásad určete konkrétní uživatelská práva, skupiny s omezeným členstvím a zdrojové objekty zásad skupiny, které obsahují problematické účty: a.
+-ER:<Název_prostředku> extrahuje binární soubor MOF ze zadaného prostředku
+-L:<Jazyk_prostředku> volitelné určité číslo jazyka při použití přepínače -ER
+"Nabídka Soubor: Zakázat možnost zavření prohlížeče a oken programu Průzkumník"
+"Nabídka Nápověda: Odebrat položku Váš názor"
+Pokud tuto zásadu zakážete nebo nenakonfigurujete, uživatelé mohou exportovat a importovat oblíbené položky aplikace Internet Explorer vybráním položky Import a export v nabídce Soubor a spuštěním Průvodce pro import a export.
+Zakázat kompletní ukládání", která zabraňuje uživatelům ukládat celý zobrazený nebo spuštěný obsah webové stránky, jako například obrázky, skripty a připojené soubory, ale nezabraňuje ukládání textu webové stránky.
+Upozornění: Tato zásada nezabraňuje uživatelům v otevření nového okna prohlížeče klepnutím pravým tlačítkem myši na odkaz a vybráním položky Otevřít v novém okně.
+Poznámka: Většina poskytovatelů kanálů používá slova Přidat kanál pro tuto možnost, avšak vyskytují se i jiné výrazy (např. Subscribe, Add Active Channel apod.)."
+Poznámka: Pokud tuto zásadu povolíte, uživatelé nebudou moci ani vybrat položku Synchronizovat v nabídce Nástroje, která slouží ke správě odkazů zpřístupněných offline."
+Poznámka: Pokud uživatel klepne na odkaz pravým tlačítkem a vybere položku Otevřít v novém okně, namísto nového okna bude zobrazeno hlášení, že příkaz byl zakázán."
+Tato zásada je určena ke snazší konsistentní aktualizaci počítačů uživatelů v rámci organizace.
+Pokud tuto zásadu zakážete nebo nenakonfigurujete, nemůžete tento limit určit.
+Pokud tuto zásadu zakážete nebo nenakonfigurujete, nemůžete tento limit určit.
+Pokud tuto zásadu zakážete nebo nenakonfigurujete, nemůžete tento limit určit.
+Pokud tuto zásadu zakážete nebo nenakonfigurujete, nemůžete tento limit určit.
+Pokud tuto zásadu zakážete nebo nenakonfigurujete, nemůžete tento limit určit.
+Pokud povolíte zásadu "Zakázat kartu Připojení" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Připojení" odebere z uživatelského rozhraní celou kartu Připojení."
+Pokud povolíte zásadu "Zakázat kartu Programy" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Programy" odebere z uživatelského rozhraní celou kartu Programy."
+Pokud povolíte zásadu "Zakázat kartu Obsah" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Obsah" odebere z uživatelského rozhraní celou kartu Obsah.
+Upozornění: Pokud tuto zásadu povolíte, uživatelé stále mohou spouštět Průvodce importem správce certifikátů poklepáním na soubor .spc (soubor certifikátu vystavitele).
+Pokud je zásada "Zakázat změnu nastavení stránky Obecné" (Umístění: \\Uživatelská konfigurace\\Šablony pro správu\\Součásti systému\\Internet Explorer\\) povolena, nemusíte tuto zásadu konfigurovat, protože zásada "Zakázat změnu nastavení stránky Obecné" odstraňuje kartu Obecné z rozhraní.
+Poznámka: Výchozí písma webových stránek jsou ignorována u webových stránek, pro které jejich autor přímo určil vlastnosti písem."
+Upozornění: Pokud tuto zásadu povolíte poté co již uživatelé použili prohlížeč se zapnutou volbou Automatické dokončování, historie pro automatické dokončování již vyplněných formulářů nebude vymazána."
+Pokud povolíte zásadu "Zakázat kartu Obsah" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Obsah" odebere z uživatelského rozhraní celou kartu Obsah."
+Poznámka: Výchozí barvy odkazů webových stránek jsou ignorovány u webových stránek, pro které jejich autor přímo určil barvy odkazů."
+Pokud povolíte zásadu "Zakázat kartu Programy" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Programy" odebere z uživatelského rozhraní celou kartu Programy."
+Pokud povolíte zásadu "Zakázat kartu Obsah" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Obsah" odebere z uživatelského rozhraní celou kartu Obsah."
+Pokud povolíte zásadu "Zakázat kartu Hodnocení" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Hodnocení" odebere z uživatelského rozhraní celou kartu Hodnocení."
+Pokud povolíte zásadu "Zakázat kartu Programy" (umístění: \Konfigurace uživatele\Šablony pro správu\Součásti systému Windows\Internet Explorer\Možnosti Internetu), nemusíte již tuto zásadu konfigurovat, protože zásada "Zakázat kartu Programy" odebere z uživatelského rozhraní celou kartu Programy."
+Viz. také zásada "Zóny zabezpečení: Použít pouze nastavení počítače""
+Viz. také zásada "Zóny zabezpečení: Použít pouze nastavení počítače""
+Upozornění: Tato zásada nezabraňuje uživatelům zobrazovat nebo měnit nastavení Internetu pomocí ovládacího panelu Možnosti Internetu v ovládacích panelech.
+Viz. také zásada "Zóny zabezpečení: Použít pouze nastavení počítače""
+Poznámka: Pokud je tato zásada pro danou zónu nastavena v oddílu Konfigurace uživatele i Konfigurace počítače, budou použity oba seznamy omezených protokolů."
+Poznámka: Doporučujeme nakonfigurovat nastavení šablony zásady v jednom objektu GPO (Objekt zásady skupiny) a pro individuální nastavení zásad použít jiný objekt GPO.
+Role: Přidružený spravovaný systémový prvek poskytuje prvek implementující nastavení prvku.
+Role: Přidružené nastavení poskytuje nastavení implementující nastavení prvku.
+Heuristika: Pokud je implementace přístupového bodu služby modelována, musí být bod implementován zařízením nebo softwarovým prvkem, který je částí systému, jenž je hostitelem přístupového bodu služby.
+Heuristika: Hostitelským systémem cíle úlohy je systém, v němž se nacházejí logická zařízení, softwarové funkce či služby implementující nebo poskytující cíl úlohy.
+Například pro řetězec abcdefghijklmnopqrstuvwxyz bude vytvořen řetězec c3fcd3d76192e4007dfb496cca67e13b.

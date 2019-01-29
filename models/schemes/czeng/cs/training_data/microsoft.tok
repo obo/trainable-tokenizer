@@ -1,0 +1,256 @@
+[_DialogFontDefault]&amp;
+Ne
+{&amp;MSSansSerif8}
+Probíhá odinstalování vybraných součástí .
+[_DialogFontDefault]&lt;&amp;
+Zpět
+[_DialogFontDefault]
+Chcete pokračovat a odebrat aplikaci [ProductName] z počítače ? 
+Klepnutím na tlačítko Další aplikaci odeberete .
+Soubor: [1]
+Složka: [1]
+Zástupce: [1]
+Písmo: [1]
+{{Disk je plný: }}
+=== Začátek protokolování: [Date] [Time] ===
+=== Konec protokolování: [Date] [Time] ===
+Vložte disk [2] .
+Při instalaci nelze z důvodu nedostatečných oprávnění získat přístup do adresáře [2] .
+Při pokusu o čtení ze souboru [2] došlo k chybě sítě .
+Při pokusu o vytvoření adresáře [2] došlo k chybě .
+Při pokusu o vytvoření adresáře [2] došlo k chybě sítě .
+Při pokusu o otevření zdrojového souboru CAB ([2]) došlo k chybě sítě .
+Instalační služba nemůže z důvodu nedostatečných oprávnění upravit soubor [2] .
+Jednotka [2] není platná .
+Nelze vytvořit klíč [2] .
+{{ Systémová chyba [3] . }} 
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+Nelze otevřít klíč [2] .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+Požadované místo: [3] kB; místo k dispozici: [4] kB .
+ID: [5]; název okna: [6]} .
+Požadované místo: [3] kB; místo k dispozici: [4] kB .
+Při pokusu o čtení ze zdrojové instalační databáze [2] došlo k chybě .
+Plánování restartování počítače: Odstraňování souboru [2] .
+Při instalaci ovladače ODBC došlo k chybě:
+Server ISA (Microsoft Internet Security and Acceleration Server) je server firewall a proxy , poskytující řízení přenosu mezi sítěmi pomocí zásad .
+Server MOM (Microsoft Operations Manager server) , Workgroup Edition , monitoruje a spravuje události a data o výkonu dat serverů na bázi systému Windows .
+<Name _locID="Port_Name">Název</Name>
+<Name _locID="FileSystem_Name">Název</Name>
+<Name _locID="Registry_Name">Název</Name>
+<Name _locID="Template_Name">Název</Name>
+Server je členem clusteru NLB (Vyrovnávání zatížení sítě) Clustery NLB umožňují adresování více serverů pomocí jedné adresy IP a zvyšují tak dostupnost a škálovatelnost .
+Bezdrátová síť a ověřování 802 .1X
+Seznam zajímavých serverů WWW
+Označit tento klíč jako exportovatelný; později bude možné klíč zálohovat či přenést
+Povolit v této síti ověření IEEE 802 .1x
+Přijmout nepodepsaný a nešifrovaný příchozí přenos , ale vždy odpovědět protokolem IPSec (není doporučeno pro servery v Internetu)
+Zahrnout také šablonu zabezpečení SCWAudit .inf . Zásada SCWAudit .inf nastavuje systémové seznamy řízení přístupu (SACL) na auditování přístupu k systému souborů .
+Aby se mohli uživatelé vzdáleně připojit k tomuto počítači , musíte je přidat do skupiny Remote Desktop Users . Podrobné instrukce naleznete v části Přidání uživatelů do skupiny Remote Desktop Users .
+Tlačítko akce: Zpět nebo Předchozí
+Tlačítko akce: Dopředu nebo Další
+Tlačítko akce: Video
+Zbývající čas: {[1] minut }{[2] sekund}
+Zbývající čas: {[1] minut }[2] sekund
+K vytvoření serveru je požadována alespoň hodnota <kořen> .
+Zkontrolujte , zda je zaregistrován objekt Microsoft .IIsScriptHelper .
+CHYBA: Zadané ID procesu NENÍ instancí souboru W3WP .exe - PROBÍHÁ UKONČENÍ
+{{ Systémová chyba [4] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+ID: [5]; název okna: [6]} .
+Při pokusu o čtení ze zdrojové instalační databáze [2] došlo k chybě .
+Plánování restartování počítače: Odstraňování souboru [2] .
+Vložte disk [2] .
+Při instalaci nelze z důvodu nedostatečných oprávnění získat přístup do adresáře [2] .
+Při pokusu o čtení ze souboru [2] došlo k síťové chybě .
+Při pokusu o vytvoření adresáře [2] došlo k chybě .
+Při pokusu o vytvoření adresáře [2] došlo k síťové chybě .
+Při pokusu o otevření zdrojového souboru CAB ([2]) došlo k síťové chybě .
+Nelze otevřít klíč [2] .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+=== Začátek protokolování: [Date] [Time] ===
+=== Konec protokolování: [Date] [Time] ===
+Zbývající čas: {[1] minut }{[2] sekund}
+Instalační služba nemůže z důvodu nedostatečných oprávnění upravit soubor [2] .
+Obraťte se na pracovníky odborné pomoci .
+{{Systémová chyba: [3] . }}
+Obraťte se na pracovníky odborné pomoci .
+{{Systémová chyba: [3] . }}
+Nelze vytvořit klíč [2] .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{Disk je plný: }}
+Při pokusu o čtení ze souboru [2] došlo k chybě sítě .
+Při pokusu o vytvoření adresáře [2] došlo k chybě sítě .
+Při pokusu o otevření zdrojového souboru CAB ([2]) došlo k chybě sítě .
+Nelze vytvořit klíč [2] .
+{{ Systémová chyba [3] . }}
+Přesvědčte se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+Požadované místo: [3] kB; dostupné místo: [4] kB .
+Při instalaci nelze z důvodu nedostatečných oprávnění získat přístup do adresáře [2] .
+{{ Systémová chyba [3] . }}
+Přesvědčete se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+Nelze otevřít klíč [2] .
+{{ Systémová chyba [3] . }}
+Přesvědčete se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčete se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [3] . }}
+Přesvědčete se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+{{ Systémová chyba [4] . }}
+Přesvědčete se , zda máte ke klíči dostatečný přístup , nebo se obraťte na pracovníky odborné pomoci .
+ID: [5]; název okna: [6]} .
+Ke správnému běhu programu budete pravděpodobně muset aktualizovat operační systém . {{Verze balíčku: [3] , Verze chráněná operačním systémem:
+[4] , Chyba SFP: [5]}}
+Při instalaci nelze z důvodu nedostatečných oprávnění získat přístup do složky [2] .
+Při pokusu o vytvoření složky [2] došlo k chybě sítě .
+Nelze zvětšit místo k dispozici v registru . K instalaci této aplikace je třeba [2] kB volného místa v registru .
+Registrace písma [2] se nezdařila . Zkontrolujte , zda máte k instalace písem dostatečná oprávnění a zda systém toto písmo podporuje .
+ID: [5]; název okna: [6]} .
+Při instalaci nelze z důvodu nedostatečných oprávnění získat přístup do adresáře [2] .
+Instalační služba systému Windows nemůže z důvodu nedostatečných oprávnění upravit soubor [2] .
+Plánování restartování počítače: Odstraňování souboru [2] .
+Správná funkčnost tohoto programu bude pravděpodobně vyžadovat aktualizaci operačního systému . {{Verze balíčku: [3] , verze chráněná operačním systémem:
+[4] , chyba SFP: [5]}}
+Kód systémové chyby: [2]}}
+[3] , knihovna: [4] }}
+Služba Windows Installer nemůže aktualizovat jeden či více chráněných souborů systému Windows . {{Chyba ochrany systémových souborů:
+Seznam chráněných souborů: [3]}}
+{{rozhraní sestavení: [4] , funkce:
+[5] , součást: [2]}}
+{{rozhraní sestavení: [4] , funkce:
+[5] , součást: [2]}}
+{{rozhraní sestavení: [4] , funkce:
+[5] , součást: [2]}}
+{{rozhraní sestavení: [4] , funkce:
+[5] , součást: [2]}}
+ .:OBRZKY~1
+
+
+
+
+Společnost Microsoft využila nejlepší technologie systému Windows 2000 Server a zjednodušila instalaci , správu a použití systému .
+V systému Windows Server 2003 mohou organizace využívat přednosti technologie Microsoft - sady softwaru sloužící k propojování informací , uživatelů , systémů a zařízení .
+Lze vytisknout všechny dokumenty , na které jsou uvedeny odkazy na dané webové stránce .
+V dialogovém okně Tisk zaškrtněte políčko Vytisknout všechny odkazované dokumenty .
+Pro každý webový server lze nastavit jinou úroveň zabezpečení .
+V nabídce Nástroje klepněte na příkaz Možnosti Internetua klepněte na kartu Zabezpečení .
+To lze provést po klepnutí na nabídce Nástroje , příkaz Možnosti a kartu Zabezpečení .
+Soubor: <načítání . . .>
+Tip: Synchronizací složek a diskusních skupin zajistěte , aby byly zprávy k dispozici v režimu offilne .
+Tato stránka již není k dispozici .
+Z bezpečnostních důvodů neodesílá aplikace Internet Explorer informace automaticky znovu .
+Choose( index , výraz1 , výraz2 ,  . . . )
+Vyprázdnit složku Odstraněná pošta
+Otevřít . . .
+{Typ podmínky neodpovídá vybranému poli . }
+Klepnutím vyberte jinou podmínku nebo jiné pole ve sloupci Název pole .
+{Při výběru položky došlo k potížím . }
+Zvolený typ nabíhání nákladů není platný .
+{Zadaná hodnota jednotek není platná . }
+Pro pracovní zdroje (například lidi nebo stroje) zadejte kladné číslo v rozsahu 0 až 60 000 000 (nebo 6 000 000 000 procent) s přesností až na dvě desetinná místa .
+{Volba pracovní skupiny není platná . }
+Klepnutím vyberte položku Výchozí , Žádná , E-mailová adresa nebo Web a poté stiskněte klávesu Enter .
+{Výskyty kalendáře ^1 budou nahrazeny Standardním kalendářem . }
+Odstraněný kalendář byl používán aplikací Microsoft Project , proto byly jeho výskyty nahrazeny Standardním kalendářem .
+{Pokud vyjmete vybrané zdroje , informace o případných přiřazených úkolech budou ztraceny . }
+\225 Ve vyjmutí vybraných zdrojů můžete pokračovat klepnutím na tlačítko OK . \225 Akci zastavíte klepnutím na tlačítko Storno .
+{Pole obsahuje data , která mají dynamické propojení na jiné pole nebo program . }
+Pokud vymažete nebo změníte informace v tomto poli , související propojení budou odebrána .
+Pokud chcete změnit symbol měny , klepněte v nabídce Nástroje na příkaz Možnosti a na kartě Zobrazení změňte symbol měny v poli Symbol .
+{Neplatná prodleva . }
+Zadaná prodleva není platná .
+Použijte jeden z těchto postupů: \225 Pro pevnou prodlevu zadejte do pole Prodleva číslo a zkrácený formát doby trvání , například 5 d nebo 5 ud pro uplynulý čas .
+{Neplatné číslo . }
+Zadané číslo není platné nebo leží mimo rozsah pole Číslo .
+{Neplatná hodnota pole Dokončeno % . }
+Procentuální hodnota dokončení úkolu nemůže být menší než 0 procent nebo větší než 100 procent .
+{Neplatný předchůdce . }
+Použijte jeden z těchto postupů: \225 Zadejte pouze celá kladná čísla .
+{Neplatný název zdroje . }
+Názvy zdrojů nesmějí obsahovat hranaté závorky ( [ ] ) ani znak oddělovače seznamu .
+{Zadaný zdroj ^1 není ve fondu zdrojů . }
+Klepnutím na tlačítko Ano přidáte zdroj do fondu zdrojů .
+Použijte jeden z těchto postupů: \225 Zadejte pouze celá kladná čísla .
+{Neplatné ID úkolu . }
+Úkol s tímto číslem ID neexistuje .
+{Provedení akce způsobí plánovací konflikt souhrnného úkolu ^1 v ^2 . }
+\225 Omezení odstraníte klepnutím na tlačítko OK . 
+\225 Akci vrátíte zpět klepnutím na tlačítko Storno .
+{Zavření souboru ^1 bez uložení souboru fondu zdrojů ^2 může způsobit ztrátu informací o existujícím propojení . }
+Chcete-li zachovat všechny informace o propojení , je nutné uložit soubor fondu zdrojů před zavřením tohoto souboru .
+{Otevřený soubor je vložený projekt . }
+Vložené projekty nemohou být použity jako soubory fondu zdrojů nebo jako soubory sdílení .
+{Úkol nemůže být předchůdcem sama sebe . }
+Pokud tento úkol závisí na jiném úkolu , zadejte jeho identifikátor ID nebo jiné určující informace o vazbách mezi úkoly .
+{Datum dokončení souhrnného úkolu nelze upravit . }
+Souhrnný úkol shrnuje informace o dílčích úkolech a proto nelze jeho datum dokončení upravit .
+{Data zahájení vložených projektů a souhrnných úkolů nelze upravovat . }
+Souhrnné úkoly a vložené projekty shrnují informace o dílčích úkolech a proto nelze jejich data upravovat .
+{Omezení typu Pokračovat po nelze upravovat pro vložené projekty a souhrnné úkoly . }
+Souhrnné úkoly a vložené projekty shrnují informace o dílčích úkolech a proto nelze upravovat jejich data zastavení a pokračování .
+{Dobu trvání souhrnných úkolů a vložených projektů nelze upravovat , protože jsou počítány aplikací Microsoft Project . }
+Pro změnu doby trvání souhrnného úkolu či vloženého projektu upravte doby trvání dílčích úkolů souhrnného úkolu či vloženého projektu .
+{Skutečnou či zbývající práci vloženého projektu nelze upravovat . }
+Upravte skutečné či zbývající práce dílčích úkolů vloženého projektu .
+{Do pole Iniciály nelze zadat jednotky . }
+Jednotky zadejte klepnutím na tlačítka Informace o úkolu nebo Přiřadit zdroje na panelu Standardní .
+{Souhrnný úkol nelze propojit vazbou s jeho dílčím úkolem . }
+Pokud chcete tyto dva úkoly propojit vazbou , zmenšete odsazení dílčího úkolu v osnově a poté úkoly propojte vazbou .
+{Operace nemohla být dokončena , protože celkový počet řádků by překročil omezení ^1 řádků v projektu . }
+Chcete-li získat další prostor pro úkoly a zdroje , vložte menší počet řádků , odstraňte přebytečné řádky nebo projekt rozdělte na dílčí projekty .
+{Propojení ^1 na fond zdrojů ^2 odstraní všechna propojení na zdroje v ^3 . }
+Chcete pokračovat ?
+Pro pokračování a zrušení všech propojení OLE a DDE na zdroje klepněte na tlačítko Ano .
+{Při propojování úkolů došlo k potížím . }
+Předchůdce nelze propojit dvakrát se stejným následníkem .
+{Při zadávání přiřazení došlo k potížím . }
+Zdroj nemůže být přiřazen dvakrát ke stejnému úkolu .
+{Při propojování úkolů došlo k potížím . }
+Úkol nemůže být současně předchůdce i následník .
+{Při zadávání hodnoty pole došlo k potížím . }
+Pole na řádku č . ^1 je delší než 255 znaků a bude zkráceno na tuto délku .
+{Úkol ^1 v projektu ^2 je dokončen po dokončení projektu . }
+Použijte jeden z těchto postupů: \225 Pokud je zadané datum dokončení úkolu pozdější než datum dokončení úkolu a projekt má být dokončen s dokončením úkolu , změňte datum dokončení projektu a poté změňte datum dokončení úkolu .
+{Při importu došlo k chybě . }
+Zkontrolujte řádek ^2 , sloupec ^3 .
+{Neplatná hodnota . }
+Do pole Maximální počet jednotek lze zadat pouze číslo .
+{Při importu došlo k potížím . }
+Import bude zastaven , protože informace v importovaném poli obsahují větší počet znaků než kolik pojme odpovídající pole aplikace Microsoft Project .
+{Při exportu došlo k chybě . }
+Neplatný záznam  .MPX nalezen na řádku č . ^1 .
+{Při exportu došlo k chybě . }
+Chyba exportu na řádku č . ^1 .
+{Předchůdci souhrnného úkolu či předchůdci souhrnného úkolu vloženého projektu musejí být propojeni vazbou Dokončení-Zahájení nebo Zahájení-Zahájení . }
+Vyberte úkoly , které chcete propojit vazbou Dokončení-Zahájení nebo Zahájení-Zahájení a klepněte na tlačítko Vytvořit vazbu mezi úkoly na panelu Standardní .
+{K dokončení operace není dostatek paměti . }
+Ukončete nepoužívané programy a projekty a zavřete nepoužívaná okna a opakujte akci .

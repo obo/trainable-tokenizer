@@ -58,7 +58,13 @@ packages.installed:
 	hostname > $@
 
 trtok-src:
-	git clone git@github.com:obo/trainable-tokenizer.git $@
+	if [ -e ../src/RoughTokenizer.cpp ]; then \
+	  echo "Assuming we are part of trtok source directory, using that."; \
+	  ln -s .. $@ ; \
+	else \
+	  echo "Obtaining trtok from github" ; \
+	  git clone https://github.com/obo/trainable-tokenizer.git $@ || exit 1 ; \
+	fi
 
 maxent:
 	git clone git://github.com/lzhang10/maxent.git
@@ -155,10 +161,9 @@ clean:
 	rm -rf trtok-src trtok.compiled bin config.sh maxent* tbb* boost boost_1_51_0 boost.compiled quex trtok/trtok trtok/analyze
 
 info:
-	echo; \
-	echo "===================="; \
-	echo "Add to your bashrc: "; \
-	echo "source `pwd`/config.sh";
+	# =========================
+	# == Add to your bashrc:
+	@echo "     source $$(pwd)/config.sh"
 
 check:
 	if [ ! -f trtok/trtok ]; then \

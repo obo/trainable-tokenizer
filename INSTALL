@@ -1,3 +1,13 @@
+Most recent instructions
+========================
+```
+cd installation
+make all
+```
+
+Older and detailed instructions
+===============================
+
 You will need
 -------------
 

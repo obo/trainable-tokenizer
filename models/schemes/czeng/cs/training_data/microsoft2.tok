@@ -6,7 +6,7 @@ CHYBA : Zadané ID procesu NENÍ instancí souboru W3WP.exe - PROBÍHÁ UKONČEN
 Obraťte se na odbornou pomoc nebo dodavatele balíčku . 
 {{ Chyba vlastní akce [2] ve skriptu [3] , [4] : [5] na řádku [6] , ve sloupci [7] , [8] }}
 . : OblibPol | Oblíbené položky
-. : PROGRA~2 | Program Files (x86)
+. : PROGRA~2 | Program Files ( x86 )
 Tip : Synchronizací složek a diskusních skupin zajistěte , aby byly zprávy k dispozici v režimu offilne .
 { Popisek materiálu není platný . }
 Popisky materiálu nesmějí obsahovat : \225 Závorky ( [ ] ) nebo oddělovač seznamů .
@@ -28,7 +28,7 @@ CHDIR [cesta] CHDIR [..] CHDIR [jednotka:] CD [cesta] CD [..] CD [jednotka:] CD 
 Platné typy spuštění jsou : SERVICE_BOOT_START SERVICE_SYSTEM_START SERVICE_AUTO_START SERVICE_DEMAND_START
 Soubory mohou mít tyto atributy : D adresář R pouze pro čtení H skrytý soubor A soubory připravené k archivaci S systémový soubor C komprimovaný E šifrovaný P bod rozboru Příkaz DIR pracuje pouze v rámci systémových adresářů aktuální instalace systému Windows , výměnných médií , kořenového adresáře libovolného oddílu pevného disku nebo zdrojů místní instalace .
 CestakSouboruNT : Cesta k instalačním souborům systému Windows na CD-ROM .
-Příklad správného názvu jednotky je D : . název-oddílu To je název (vytvořený na základě oddílu) pro odstranění aktuálního oddílu a může být použit místo argumentu názvu jednotky .
+Příklad správného názvu jednotky je D : . název-oddílu To je název ( vytvořený na základě oddílu ) pro odstranění aktuálního oddílu a může být použit místo argumentu názvu jednotky .
 Chyba : Nastavení výchozí spouštěcí položky se nezdařilo .
 Služba Phone Book Service :: Byl zjištěn nový telefonní seznam .
 Použití : ipv6 gpu [parametr hodnota] ... ipv6 gpu DefaultCurHopLimit počet_směrování ipv6 gpu UseTemporaryAddresses [yes|no|always|counter] ipv6 gpu MaxTempDADAttempts číslo ipv6 gpu MaxTempLifetime valid[/preferred] ipv6 gpu TempRegenerateTime doba ipv6 gpu MaxTempRandomTime doba ipv6 gpu TempRandomTime doba ipv6 gpu NeighborCacheLimit číslo ipv6 gpu RouteCacheLimit číslo ipv6 gpu BindingCacheLimit číslo ipv6 gpu ReassemblyLimit číslo ipv6 gpu MobilitySecurity [on|off] ipv6 gpu MobileIPv6Mode [CN|MN|HA]* Pomocí příkazu ipv6 -p gpu ... provedete trvalé změny v registru .

@@ -1,3 +1,8 @@
+training_data/bojar-buglist.txt
+training_data/colons.txt
+training_data/KA-05-19-paralelni-kontroly-spravy-dph-cr-sr-2005-en.txt
+training_data/microsoft2.txt
+training_data/microsoft.txt
 training_data/sample-books-bugs.txt
 training_data/sample-bug3.txt
 training_data/sample-bugdates.txt
@@ -14,7 +19,3 @@ training_data/sample-project-syndicate-ag22.txt
 training_data/sample-various.txt
 training_data/sample-www.insoma.cz.txt
 training_data/sample-www.modelgroup.com.txt
-training_data/microsoft.txt
-training_data/microsoft2.txt
-training_data/colons.txt
-training_data/bojar-buglist.txt

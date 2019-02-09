@@ -6,7 +6,7 @@ ERROR : ProcessId specified is NOT an instance of W3WP.exe - EXITING
 Contact your support personnel or package vendor .
 {{Custom action [2] script error [3] , [4] : [5] Line [6] , Column [7] , [8] }}
 . : Favorite | Favorites
-. : PROGRA~2 | Program Files (x86)
+. : PROGRA~2 | Program Files ( x86 )
 Tip : Make sure that messages are available offline by synchronizing folders and newsgroups .
 { This is not a valid label for a material resource .}Material labels cannot contain the following : \225 Brackets ( [ ] ) or the list separator character .
 \225 Duration , work , or time units like m , hr , dy , w , mon or y ( instead , add a period; for example , \ " m .\ " or \ " y .\ " ) .
@@ -51,8 +51,8 @@ Network access : Remotely accessible registry paths
 Network access : Remotely accessible registry paths and sub-paths
 Microsoft network server : Amount of idle time required before suspending session
 Shutdown : Clear virtual memory pagefile
-DCOM : Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax
-Network security : Minimum session security for NTLM SSP based (including secure RPC) servers
+DCOM : Machine Access Restrictions in Security Descriptor Definition Language ( SDDL ) syntax
+Network security : Minimum session security for NTLM SSP based ( including secure RPC ) servers
 Network access : Named Pipes that can be accessed anonymously
 Recovery console : Allow floppy copy and access to all drives and all folders
 Microsoft network client : Digitally sign communications ( always )
@@ -87,7 +87,7 @@ Values : TRUE or FALSE .
 Values : TRUE or FALSE .
 Example : TCP/IP
 There are two special values defined for this property : 0 - The protocol is stream-oriented; the concept of message size is not relevant .
-1 - The maximum outbound (send) message size is dependent on the underlying network MTU (maximum sized transmission unit) and hence cannot be known until after a socket is bound .
+1 - The maximum outbound ( send ) message size is dependent on the underlying network MTU ( maximum sized transmission unit ) and hence cannot be known until after a socket is bound .
 Example : 00 : 80 : C7 : 8F : 6C : 96
 Default : 1000 , Valid Range : 1 - 0xFFFFFFFF .
 Default : 50 , Valid Range : 1 - 0xFFFFFFFE .
@@ -135,7 +135,7 @@ Constraint : Zone-specific
 rip1 : Announce RIP version 1 routes only . rip1compat : Announce using RIP version-compatible mode .
 rip1 : Accept RIP version 1 routes only . rip1compat : Accept using RIP version-compatible mode .
 Password authorization required . tag - The route tag . unicast - One of the following values : also : Use also unicast .
-disable : Disable announcement filters . password - A clear-text password (16 characters maximum length) .
+disable : Disable announcement filters . password - A clear-text password ( 16 characters maximum length ) .
 Remarks : Modifies RIP configuration on a specified interface .
 Remarks : Set RIP-related flags for a specified interface .
 Remarks : Set global RIP parameters .
@@ -146,12 +146,13 @@ Remarks : Shows information about adapters pertaining to the bridge .
 Remarks : Shows global port settings .
 | ALL } [ EXPIRED ] Remarks : Shows identity and related group information .
 Remarks : Shows count of identities and associated groups .
-Use :  " POWERCFG /HIBERNATE on "
+Use : " POWERCFG /HIBERNATE on "
 Note : You'll need to make sure that you have a current subscription with your antivirus provider to do this .
 Note : You'll need to make sure that you have a current subscription with your antivirus provider to do this .
 Note : You'll need to make sure that you have a current subscription with your antivirus provider to do this .
 Example : Cannot find JohnDough .
-2 . Use RSoP to identify the specific User Rights , Restricted Groups , and Source GPOs that contain the problem accounts : a . Start->
+2 .
+Use RSoP to identify the specific User Rights , Restricted Groups , and Source GPOs that contain the problem accounts : a . Start->
 -ER : <ResourceName> extracts binary mof from named resource
 -L : <ResourceLocale> optional specific locale number when using -ER switch
 " File menu : Disable closing the browser and Explorer windows "
@@ -160,24 +161,34 @@ Caution : This policy does not prevent users from opening a new browser window b
 Note : Most channel providers use the words Add Active Channel for this option; however , a few use different words , such as Subscribe . "
 Note : If you enable this policy , users also cannot click Synchronize on the Tools menu to manage their favorite links that are set up for offline viewing . "
 Note : When users click the Open in New Window command , the link will not open in a new window and they will be informed that the command is not available . "
-The " Disable the Connections page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Connections tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
-This " Disable the Programs Page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) takes precedence over this policy . If it is enabled , this policy is ignored . "
-The " Disable the Content page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Content tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored .
-Caution : If you enable this policy , users can still run the Certificate Manager Import Wizard by double-clicking a software publishing certificate ( .spc) file .
+The " Disable the Connections page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Connections tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored . "
+This " Disable the Programs Page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) takes precedence over this policy .
+If it is enabled , this policy is ignored . "
+The " Disable the Content page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Content tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored .
+Caution : If you enable this policy , users can still run the Certificate Manager Import Wizard by double-clicking a software publishing certificate ( .spc ) file .
 Note : The default font settings colors are ignored in cases in which the Web page author has specified the font attributes . "
 Caution : If you enable this policy after users have used their browser with form automatic completion enabled , it will not clear the automatic completion history for forms that users have already filled out . "
-The " Disable the Content page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Content tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+The " Disable the Content page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Content tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored . "
 Note : The default link colors are ignored on Web pages on which the author has specified link colors . "
-The " Disable the Programs page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Programs tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
-The " Disable the Connections page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Connections tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
-The " Disable the Ratings page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Ratings tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
-The " Disable the Programs page " policy (located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel) , which removes the Programs tab from Internet Explorer in Control Panel , takes precedence over this policy . If it is enabled , this policy is ignored . "
+The " Disable the Programs page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Programs tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored . "
+The " Disable the Connections page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Connections tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored . "
+The " Disable the Ratings page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Ratings tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored . "
+The " Disable the Programs page " policy ( located in \User Configuration\Administrative Templates\Windows Components\Internet Explorer\Internet Control Panel ) , which removes the Programs tab from Internet Explorer in Control Panel , takes precedence over this policy .
+If it is enabled , this policy is ignored . "
 Also , see the " Security zones : Use only machine settings " policy . "
 Also , see the " Security zones : Use only machine settings " policy . "
 Caution : This policy does not prevent users from viewing and changing Internet settings by clicking the Internet Options icon in Windows Control Panel .
 Also , see the " Security zones : Use only machine settings " policy . "
-Note . If policy for a zone is set in both Computer Configuration and User Configuration , both lists of protocols will be restricted for that zone . "
-Note . It is recommended to configure template policy settings in one Group Policy object (GPO) and configure any related individual policy settings in a separate GPO .
+Note .
+If policy for a zone is set in both Computer Configuration and User Configuration , both lists of protocols will be restricted for that zone . "
+Note .
+It is recommended to configure template policy settings in one Group Policy object ( GPO ) and configure any related individual policy settings in a separate GPO .
 Role : The associated managed system element provides the element that implements the element setting .
 Role : The associated setting provides the setting that implements the element setting .
 Heuristic : If the implementation of the service access point is modeled , it must be implemented by a device or software feature that is part of the system hosting the service access point .

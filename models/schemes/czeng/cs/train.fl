@@ -1,4 +1,13 @@
+training_data/bojar-buglist.txt
+training_data/colons.txt
+training_data/generated-dates.txt
+training_data/KA_05_19-paralelni-kontroly-spravy-dph-cr-sr-2005_cs-part.txt
+training_data/KA_05_19-part2.txt
+training_data/KA_06_27-paralelni-kontroly-spravy-dph-cr-srn-2008_cs-en-de_cs.txt
+training_data/KA_06_27-part2.txt
 training_data/man-sample-ps-abramsky1.txt
+training_data/microsoft2.txt
+training_data/microsoft.txt
 training_data/sample-1958-jrc31958Q1101.txt
 training_data/sample-2006-jrc32006B0163.txt
 training_data/sample-basic-expressions.txt
@@ -27,7 +36,3 @@ training_data/sample-random-bugs-jrc.txt
 training_data/sample-svati.txt
 training_data/sample-www.gremiumdk.cz.txt
 training_data/sample-www.insoma.cz.txt
-training_data/microsoft.txt
-training_data/microsoft2.txt
-training_data/colons.txt
-training_data/bojar-buglist.txt

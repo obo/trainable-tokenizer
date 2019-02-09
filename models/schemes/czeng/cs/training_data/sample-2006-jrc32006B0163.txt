@@ -3,17 +3,14 @@ Výkaz příjmů a výdajů Evropského monitorovacího centra pro drogy a drogo
 (2006/163/ES)
 PŘÍJMY
 Hlava Kapitola | Položka | Rozpočtový rok 2006 | Rozpočtový rok 2005 | Rozpočtový rok 2004 |
-1
 DOTACE OD EVROPSKÉHO SPOLEČENSTVÍ
 1 0 | DOTACE OD EVROPSKÉHO SPOLEČENSTVÍ | 12100000 | 12000000 | 11730000 |
 | Hlava 1 — Celkem | 12100000 | 12000000 | 11730000 |
-2
 DALŠÍ DOTACE
 2 0 | PŘÍSPĚVEK NORSKA | 521125 | 515625 | 514030 |
 2 1 | PŘEDVSTUPNÍ STRATEGIE | | 300000 | — |
 2 2 | VÝDAJE NA PROVÁDĚNÍ ZVLÁŠTNÍCH PROJEKTŮ FINANCOVANÝCH ZE ZVLÁŠTNÍCH DOTACÍ | — | — | — |
 | Hlava 2 — Celkem | 521125 | 815625 | 514030 |
-3
 PŘÍJMY ZA SLUŽBY POSKYTOVANÉ ZA ÚPLATU
 3 0 | PŘÍJMY ZA SLUŽBY POSKYTOVANÉ ZA ÚPLATU | — | — | — |
 | Hlava 3 — Celkem | — | — | — |
@@ -61,20 +58,16 @@ Poznámky
 Příjmy za služby poskytované za úplatu.
 VÝDAJE
 Hlava Kapitola | Položka | Položky 2006 | Položky 2005 | Plnění 2004 |
-1
 VÝDAJE SPOJENÉ SE ZAMĚSTNANCI PRACUJÍCÍMI PRO CENTRUM
 1 1 | ZAMĚSTNANCI V ČINNÉ SLUŽBĚ | 6600260 | 6590000 | 5998239 |
 1 2 | DŮCHODY A ODSTUPNÉ | p.m. | p.m. | p.m. |
 | Hlava 1 — Celkem | 6600260 | 6590000 | 5998239 |
-2
 VÝDAJE NA PODPŮRNÉ ČINNOSTI
 2 1 | SPRÁVNÍ A LOGISTICKÉ PODPŮRNÉ ČINNOSTI | 1490240 | 1395000 | 1443822 |
 | Hlava 2 — Celkem | 1490240 | 1395000 | 1443822 |
-3
 VÝDAJE NA PROVOZNÍ ČINNOSTI A PROJEKTY
 3 1 | ŠÍŘENÍ INFORMACÍ A KOMUNIKAČNÍ ČINNOSTI | 4530625 | 4530625 | 4508602 |
 | Hlava 3 — Celkem | 4530625 | 4530625 | 4508602 |
-4
 VÝDAJE NA PROVÁDĚNÍ ZVLÁŠTNÍCH PROJEKTŮ FINANCOVANÝCH ZE ZVLÁŠTNÍCH DOTACÍ
 4 1 | PROJEKTY | | | p.m. |
 | Hlava 4 — Celkem | | | p.m. |
